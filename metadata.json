@@ -1,0 +1,5 @@
+{
+  "name": "Digital CV Viewer",
+  "description": "A web application to display a professional CV based on an uploaded document. It parses and presents contact information, work experience, education, and skills in a clean, modern, and responsive layout.",
+  "requestFramePermissions": []
+}
